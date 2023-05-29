@@ -2,13 +2,87 @@
   background-color: red;
 }
 .mainScript{
-  /* height: auto; */
   width: 100%;
-  /* padding: 1000px,0; */
   text-align: center;
   font-family: Playfair Display;
+  font-size: 96px;
+  font-style: normal;
+font-weight: 700;
+  margin-bottom: 0px;
+  color: #121619;
+  
+}
+.mainScript2{
+  width: 100%;
+  text-align: center;
+  margin-top: 0px;
+  font-family: Playfair Display;
+  font-style: normal;
+font-weight: 700;
+display: block;
+  font-size: 96px;
   color: #43B97F;
+  
+}
+.mainScript3{
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 0px;
+  font-family: Playfair Display;
+  font-style: normal;
+font-weight: 700;
+  font-size: 96px;
+  color: #121619;
+  
 }
 .mainImg{
   padding-left: 421px;
+}
+.navbar-Medio{
+  font-family: Playfair Display;
+  color: #0B3822;
+  text-decoration: none;
+  font-size: 50px;
+}
+.Navbar_Home{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.button-LogIn{
+    width: 120px;
+    height: 39px;
+    border: 1px solid #43B97F;  
+    border-radius: 8px;
+    background-color: #43B97F;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    color: #EAF5EE;
+    margin: 8.5px;
+    margin-left: 1050px;
+    font-size: 20px;
+    cursor: pointer;
+    
+  }
+  .button-SignIn{
+    width: 120px;
+    height: 39px;
+    border: 1px solid #43B97F;
+    border-radius: 8px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    color: black;
+    margin: 8.5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.NavBottom{
+  position: absolute;
+  padding: 0px;
+  margin-left: 10rem;
+  width: 85rem;
+  border-color: #A4B6AA;
 }
